@@ -4,7 +4,7 @@ This Project uses ARTNETS – Real time learning Deep neural networks (CNN + Lin
 
 ![GitHub Logo](https://cdn-images-1.medium.com/max/1600/1*EPXJlCxXqzCHO5xPIrRiVw.png)
 
-Background:
+## Background:
 
 Detecting infection in early stages is crucial for curing pneumonia. Chest X-rays are currently the best available method for detecting this. However, using chest X-rays is a challenging task since it requires expert radiologists for making the decision. Also, statistics show that Pneumonia is most prevalent in South Asia and sub-Saharan Africa where there are only a few experts to classify chest X-ray for abnormalities. 
 
